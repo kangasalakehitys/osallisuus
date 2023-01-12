@@ -1,0 +1,51 @@
+# Suunnitteluosallisuus
+
+Suunnitteluosallisuudessa kuntalainen on mukana kaupungin ja kuntalaisen välisessä suunnittelussa ja valmistelussa. Tästä esimerkkinä osallistuminen palvelukehitykseen ja yhteissuunnitteluun.
+
+## ✴️ Alueraadit
+
+[Miten toimii tällä hetkellä?]{style="color:red"}
+
+## ✴️ Asiakasraadit
+
+[Miten toimii tällä hetkellä?]{style="color:red"}
+
+## Asukas- ja infotilaisuudet sekä vuorovaikutteiset työpajat
+
+Kaavoituksen yhteydessä järjestetään yleisötilaisuuksia, työpajoja ja kävelyjä. Näissä Keskustellaan alueen kehittämistarpeista ja suunnitelmista. Tilaisuuksista ilmoitetaan kaavan kuulutuksissa (lehdet, kaupungin ilmoitustaulut, ajankohtaista), kirjeitse osallisille sekä kaavoituksen sivuilla (nähtävillä ja vireillä olevia asemakaavoja ja nähtävillä ja vireillä olevia yleiskaavoja). Lue lisää tapahtumista [tapahtumakalenterista](https://www.kangasala.fi/kaupunki-ja-paatoksenteko/osallistu-ja-vaikuta/tilaisuudet-ja-tapahtumat/)
+
+## Ennakkovaikutusten arvioinnit
+
+[Miten toimii tällä hetkellä?]{style="color:red"}
+
+## ✴️ Kerrokantasi - verkkopalvelu
+
+[Olisiko tarvetta olla tällainen palvelu kaavakuulemisiin?]{style="color:red"}. Helsingin mallin <https://kerrokantasi.hel.fi> mukaan asukkaat voivat tulla kehittämään kaupunkia ja osallistua avoimiin kuulemisiin.
+
+## ✴️ Kokemusasintuntijoiden käyttö palvelukehityksessä
+
+[Miten toimii tällä hetkellä?]{style="color:red"}
+
+## ✴️ Lasten ja nuorten vaikuttajapäivä
+
+[Onko Kangasalla tarvetta?]{style="color:red"}
+
+## Luontoretket
+
+Kaupungin ympäristönsuojelu järjestää vuosittain useita luontoretkiä. Lue lisää tapahtumista [tapahtumakalenterista](https://www.kangasala.fi/kaupunki-ja-paatoksenteko/osallistu-ja-vaikuta/tilaisuudet-ja-tapahtumat/)
+
+## Luottamushenkilöiden keskustelutilaisuudet
+
+Johtavat kunnallispoliitikot jalkautuvat asukasiltoihin non neljä kertaa vuodessa eri puolille kaupunkia. Lue lisää tapahtumista [tapahtumakalenterista](https://www.kangasala.fi/kaupunki-ja-paatoksenteko/osallistu-ja-vaikuta/tilaisuudet-ja-tapahtumat/)
+
+## Osallistuva budjetointi
+
+Osallistuva budjetointi on toimintatapa, jossa eri ryhmät esimerkiksi asukkaat, järjestöt ja yritykset käyvät vuoropuhelua taloudellisten resurssien kohdentamisesta löytääkseen yhteisen näkemyksen niiden käytölle.
+
+## ✴️ Vapaa-ajanasukkaiden foorumi {#sec-vapaa_aika_foorumi}
+
+[Kuinka laajana?]{style="color:red"}
+
+## ✴️ Viestinnän kuntalaisraati, näkemyksiä viestinnän kehittämiseen
+
+[Onko Kangasalla tarvetta?]{style="color:red"}

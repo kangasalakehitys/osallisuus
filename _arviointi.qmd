@@ -1,0 +1,11 @@
+# Osallisuuden arviointi ja mittaaminen
+
+TEAviisari kattaa kuusi eri tietokokonaisuutta: kuntajohdon, perusopetuksen, lukion, ammatillisen koulutuksen, perusterveydenhuollon, liikunnan ja kulttuurin. Tietokokonaisuudet koostetaan kuudesta ulottuvuudesta, joista yksi on osallisuus.
+
+Kuntakohtainen vertailutieto mittaa yleensä osallisuutta siten, onko jotakin tehty (Kyllä) tai ei ole tehty (Ei). Esimerkkejä:
+
+-   kunta on järjestänyt keskustelutilaisuuden
+
+-   kunta on tehnyt asiakas-/käyttäjäkyselyn
+
+-   kunnalla on keskustelupalsta internetissä, somessa tms.

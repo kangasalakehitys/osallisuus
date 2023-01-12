@@ -1,0 +1,33 @@
+# Valmistelu ja tavoitteet
+
+Suunnitelman tarkoituksena on avata osallisuuden käsitettä ja kartoittaa nykyisen osallisuuden muotoja sekä kehittää osallisuutta ja kartoittaa uusia toimintatapoja. Suunnitelmaa on käsitelty esimerkiksi ([tähän luettelo suunnitelman käsittelytahoista esim. hyvinvointiryhmä, xxxx]{style="color:red"}).
+
+# Strategia {#sec-strategia}
+
+![](themes/Kangasala_strategiakuva-vaaka-2022-1536x885.jpg){fig-alt="Kangasalan kaupunkistrategiakuva"}
+
+Osallisuus ja vuorovaikutussuunnitelman tavoitteena on kaupungin, asukkaiden ja sidosryhmien välisen vuorovaikutuksen edistäminen ja tukeminen. Työ tukeutuu Kangasalan kaupungin strategiaan, jossa yhtenä tavoitteena on **Osallistava ja palveleva, sujuvan arjen Kangasala**. Kangasalan kaupunkistrategiaan voi kokonaisuudessaan tutustua tämän linkin kautta - [Kangasalan kaupunkistrategian 2029](https://www.kangasala.fi/wp-content/uploads/2022/08/Kaupunkistrategia-2029_3-sivua.pdf "Kangasalan kaupunkistrategian 2029").
+
+## Osallistava ja palveleva, sujuvan arjen Kangasala
+
+::: columns
+::: {.column width="20%"}
+![](themes/leima_osallisuus.png){fig-alt="Osallistava ja palveleva, sujuvan arjen Kangasala"}
+:::
+
+::: {.column width="80%"}
+-   Kerromme aktiivisesti ja avoimesti toiminnastamme
+
+-   Kuulemme palautteen ja kehitämme asiakaskokemusta
+
+-   **Edistämme osallisuutta ja yhteisöllisyyttä, yhtenä painotuksena perheiden ja vanhemmuuden tukeminen**
+
+-   Lisäämme avustuksilla ja yhteistyöllä kolmannen sektorin vaikuttavuutta
+
+-   Edistämme esteettömyyttä palveluissa, suunnittelussa ja rakentamisessa
+
+-   Lisäämme sähköisiä palveluita kaupunkilaisille
+
+-   Vastuullinen viestintä on kaikkien yhteinen asia
+:::
+:::
