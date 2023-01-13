@@ -1,1 +1,1 @@
-Sitemap: https://kangasalakehitys.github.io/osallisuus/sitemap.xml
+Sitemap: https://kangasalakehitys.github.io/osallisuus/docs/sitemap.xml

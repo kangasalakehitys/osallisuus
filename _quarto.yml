@@ -15,7 +15,7 @@ book:
   author: "{{< var author >}}"
   page-navigation: true
   cover-image: themes/mukaantoimintaan180-681x490.jpg
-  site-url: https://kangasalakehitys.github.io/osallisuus/
+  site-url: https://kangasalakehitys.github.io/osallisuus/docs/
   repo-url: https://github.com/Kangasalakehitys/osallisuus/
   repo-branch: master
   repo-actions: [edit]
