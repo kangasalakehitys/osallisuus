@@ -2,6 +2,12 @@ project:
   type: book
   output-dir: docs
 lang: fi
+bibliography: references.bib
+number-sections: true
+editor: visual  
+execute:
+  echo: false
+  warning: false
 
 book:
   title: "Osallisuus- ja vuorovaikutussuunnitelma"
@@ -9,9 +15,12 @@ book:
   author: "{{< var author >}}"
   page-navigation: true
   cover-image: themes/mukaantoimintaan180-681x490.jpg
-  site-url: https://www.kangasala.fi/kaupunki-ja-paatoksenteko/osallistu-ja-vaikuta/
+  site-url: https://kangasalakehitys.github.io/osallisuus/
+  repo-url: https://github.com/Kangasalakehitys/osallisuus/
+  repo-branch: master
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
   search: false
-  site-path: "/osallisuus/"
   sidebar:
     logo: themes/Kangasala_logo_RGB_color.png
     collapse-level: 3
@@ -37,13 +46,6 @@ book:
 format:
   html: 
     theme: themes/mytheme.scss
-    callout-appearance: simple
-
-editor: visual  
-execute:
-  echo: false
-  warning: false
-
-
-bibliography: references.bib
-number-sections: true
+    cover-image: themes/mukaantoimintaan180-681x490.jpg
+    code-link: true
+    
