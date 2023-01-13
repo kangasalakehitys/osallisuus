@@ -31,7 +31,7 @@ book:
 
   chapters:
     - index.qmd
-    - _valmistelu.qmd
+    - valmistelu.qmd
     - _tasot.qmd
     - _tieto_osallisuus.qmd
     - _suunnitteluosallisuus.qmd
