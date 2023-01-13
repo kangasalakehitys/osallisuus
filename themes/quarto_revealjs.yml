@@ -1,0 +1,42 @@
+project:
+  output-dir: presentation
+  render:
+    - index.qmd
+
+lang: fi
+
+title: "Osallisuus- ja vuorovaikutussuunnitelma"
+subtitle: "{{< var version >}}"
+author: "{{< var author >}}"
+
+format:
+  pptx:
+    reference-doc: themes/blank_white_kangasala_font.pptx
+    default-image-extension: png
+    incremental: false
+    toc: true
+    toc-title: "Sisällysluettelo"
+
+  revealjs:
+    theme: themes/mytheme.scss
+    fig-width: 10
+    fig-height: 6
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    toc: false
+    toc-title: "Sisällysluettelo"
+    toc-depth: 3
+    number-sections: true
+    number-depth: 3
+    preview-links: auto
+    logo: themes/Kangasala_logo_RGB_color.png
+    footer: "Copyright {{< var year >}} Kangasalan kaupunki, {{< var license >}}"
+
+editor: visual  
+execute:
+  echo: false
+  warning: false
+
+bibliography: references.bib
+number-sections: true

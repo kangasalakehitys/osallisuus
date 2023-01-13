@@ -1,0 +1,39 @@
+# Osallisuus lainsäädännössä
+
+Kuntalain 5 luku 22 §:n mukaan kunnan asukkailla ja palvelujen käyttäjillä on oikeus osalloistua ja vaikuttaa kunnan toimintaan. Valtuuston on pidettävä huolta monipuolisista ja vaikuttavista osallistumisen mahdollisuuksista. Kunnat päättävät siis itse toimintatavoistaan
+
+::: columns
+::: {.column width="50%"}
+-   22 § Osallistumis- ja vaikuttamismahdollisuudet
+
+    -   Kunnan asukkailla ja palvelujen käyttäjillä on oikeus osallistua ja vaikuttaa kunnan toimintaan. Valtuuston on pidettävä huolta monipuolisista ja vaikuttavista osallistumisen mahdollisuuksista.
+    -   Osallistumista ja vaikuttamista voidaan edistää erityisesti:
+        -   järjestämällä keskustelu‐ ja kuulemistilaisuuksia sekä kuntalaisraateja;
+        -   selvittämällä asukkaiden mielipiteitä ennen päätöksentekoa;
+        -   valitsemalla palvelujen käyttäjien edustajia kunnan toimielimiin;
+        -   järjestämällä mahdollisuuksia osallistua kunnan talouden suunnitteluun;
+        -   suunnittelemalla ja kehittämällä palveluja yhdessä palvelujen käyttäjien kanssa;
+        -   tukemalla asukkaiden, järjestöjen ja muiden yhteisöjen oma‐aloitteista asioiden suunnittelua ja valmistelua.
+
+:::
+
+::: {.column width="50%"}
+-   20 § Äänioikeus kuntavaaleissa
+
+-   21 § Äänestysoikeus kunnallisessa kansanäänestyksessä
+
+-   23 § Aloiteoikeus
+
+-   24 § Kunnallinen kansanäänestys
+
+-   25 § Kansanäänestysaloite
+
+-   26 § Nuorisovaltuusto
+
+-   27 § Vanhusneuvosto
+
+-   28 § Vammaisneuvosto
+
+-   29 § Viestintä
+:::
+:::

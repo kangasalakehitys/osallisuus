@@ -1,0 +1,48 @@
+project:
+  type: book
+  output-dir: docs
+lang: fi
+
+book:
+  title: "Osallisuus- ja vuorovaikutussuunnitelma"
+  subtitle: "{{< var version >}}"
+  author: "{{< var author >}}"
+  page-navigation: true
+  cover-image: themes/mukaantoimintaan180-681x490.jpg
+  site-url: https://www.kangasala.fi/kaupunki-ja-paatoksenteko/osallistu-ja-vaikuta/
+  sidebar:
+    logo: themes/Kangasala_logo_RGB_color.png
+    collapse-level: 3
+    pinned: false
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+
+  chapters:
+    - index.qmd
+    - _valmistelu.qmd
+    - _tasot.qmd
+    - _tieto_osallisuus.qmd
+    - _suunnitteluosallisuus.qmd
+    - _paatoksenteko_osallisuus.qmd
+    - _toimintaosallisuus.qmd
+        
+    
+  appendices:
+    - _lahteet.qmd
+
+format:
+  docx:
+    reference-doc: themes/blank_white_kangasala_font.docx
+    default-image-extension: png
+    incremental: false
+    toc: true
+    toc-title: "Sisällysluettelo"
+
+editor: visual  
+execute:
+  echo: false
+  warning: false
+
+bibliography: references.bib
+number-sections: true

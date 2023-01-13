@@ -1,0 +1,51 @@
+project:
+  type: book
+  output-dir: docs
+lang: fi
+bibliography: references.bib
+number-sections: true
+editor: visual  
+execute:
+  echo: false
+  warning: false
+
+book:
+  title: "Osallisuus- ja vuorovaikutussuunnitelma"
+  subtitle: "{{< var version >}}"
+  author: "{{< var author >}}"
+  page-navigation: true
+  cover-image: themes/mukaantoimintaan180-681x490.jpg
+  site-url: https://kangasalakehitys.github.io/osallisuus/
+  repo-url: https://github.com/Kangasalakehitys/osallisuus/
+  repo-branch: main
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
+  search: false
+  sidebar:
+    logo: themes/Kangasala_logo_RGB_color.png
+    collapse-level: 3
+    pinned: false
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+
+  chapters:
+    - index.qmd
+    - valmistelu.qmd
+    - tasot.qmd
+    - tieto_osallisuus.qmd
+    - suunnitteluosallisuus.qmd
+    - paatoksenteko_osallisuus.qmd
+    - toimintaosallisuus.qmd
+    - arviointi.qmd
+    - lainsaadanto.qmd
+        
+  appendices:
+    - lahteet.qmd
+
+format:
+  html: 
+    theme: themes/mytheme.scss
+    cover-image: themes/mukaantoimintaan180-681x490.jpg
+    code-link: true
+    

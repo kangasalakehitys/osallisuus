@@ -1,0 +1,10 @@
+# Osallisuuden tasot ja muodot
+
+Erilaisia kuntalaisen osallistamisen muotoja voidaan luokitella seuraavan jaon mukaan: tieto-, suunnittelu-, päätöksenteko-, ja toimintaosallisuus. Kunnan on hyvä tarjota monenlaisia osallistamisen tapoja ja muotoja. Alla olevassa taulukkossa on kuvattu osallisuuden tasoja kaupungin ja asukkaan näkökulmasta. [mukaillen: @kurikka_piipponen_2014]
+
+|                     |                                            Tieto-osallisuus                                             |                                                       Suunnittelu-osallisuus                                                       |                                                      Päätöksenteko-osallisuus                                                      |                                              Toimeenpano-osallisuus                                               |
+|--------------|:------------:|:-------------:|:-------------:|:------------:|
+| **Kaupunki**        | Tuottaa riittävästi, selkeästi ja monikanavaisesti tietoa palveluista ja osallistumismahdollisuuksista. | Tarjoaa ja käyttää riittävästi erilaisia ja monipuolisia tapoja osallistua toiminnan ja palvelujen suunnitteluun ja kehittämiseen. | Tarjoaa ja käyttää riittävästi erilaisia ja monipuolisia mahdollisuuksia osallistua päätöksenteon valmisteluun ja päätöksentekoon. |                                Tukee ja mahdollistaa konkreettisen osallistumisen                                 |
+| **Asukas/ asiakas** |           Saa tietoa palveluista ja osallistumismahdollisuuksista sekä tuottaa niistä tietoa.           |              Osallistuu itseään ja lähiympäristöään koskevaan toiminnan ja palvelujen suunnitteluun ja kehittämiseen.              |                           Osallistuu itseään ja lähiympäristöään ja palveluja koskevaan päätöksentekoon.                           | Osallistuu konkreettisesti toimintaan omassa lähiympäristössään ja osallistuu palvelujen tuottamiseen eri tavoin. |
+
+: Osallisuuden tasoja kaupungin ja kuntalaisen näkökulmasta.
