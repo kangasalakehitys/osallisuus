@@ -32,16 +32,16 @@ book:
   chapters:
     - index.qmd
     - valmistelu.qmd
-    - _tasot.qmd
-    - _tieto_osallisuus.qmd
-    - _suunnitteluosallisuus.qmd
-    - _paatoksenteko_osallisuus.qmd
-    - _toimintaosallisuus.qmd
-    - _arviointi.qmd
-    - _lainsaadanto.qmd
+    - tasot.qmd
+    - tieto_osallisuus.qmd
+    - suunnitteluosallisuus.qmd
+    - paatoksenteko_osallisuus.qmd
+    - toimintaosallisuus.qmd
+    - arviointi.qmd
+    - lainsaadanto.qmd
         
   appendices:
-    - _lahteet.qmd
+    - lahteet.qmd
 
 format:
   html: 
