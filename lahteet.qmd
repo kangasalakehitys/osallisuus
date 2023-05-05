@@ -1,4 +1,0 @@
-# Lähteet {.unnumbered}
-
-::: {#refs}
-:::
