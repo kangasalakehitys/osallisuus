@@ -2,6 +2,7 @@
 
 Tässä tietovarastossa on Kangasalan kaupungin osallisuus- ja vuorovaikutussuunnitelman tiedostot. Alla on kirjoitettu päivitystietoja
 
-## 5.5.2023 - Lisätty muutokset
+## 5.5.2023 - Päivitys v. 0.3
 
-Palaverin jälkeen tekstiä on muokattu ja ajettu uudet tiedot suunnitelmaan. Lisäksi hakuominaisuus lisätty sivuille.
+- Lisätty hakuominaisuus ja lisenssiehdot
+- Palaverin jälkeen tekstiä on muokattu ja ajettu uudet tiedot suunnitelmaan. Lisäksi hakuominaisuus lisätty sivuille.
