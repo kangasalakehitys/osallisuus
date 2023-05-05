@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Osallisuus- ja vuorovaikutussuunnitelma - 3&nbsp; Tieto-osallisuus</title>
+<title>Kangasalan kaupunki - Osallisuus- ja vuorovaikutussuunnitelma - 3&nbsp; Tieto-osallisuus</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,9 +25,13 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
 <link href="./suunnitteluosallisuus.html" rel="next">
 <link href="./tasot.html" rel="prev">
-<script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -38,6 +42,12 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "overlay",
+  "limit": 20,
   "language": {
     "search-no-results-text": "Ei tuloksia",
     "search-matching-documents-text": "tulokset",
@@ -76,33 +86,13 @@ ul.task-list li input[type="checkbox"] {
       <img src="./themes/Kangasala_logo_RGB_color.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Osallisuus- ja vuorovaikutussuunnitelma</a> 
-        <div class="sidebar-tools-main tools-wide">
-    <a href="https://twitter.com" title="" class="sidebar-tool px-1"><i class="bi bi-twitter"></i></a>
-    <a href="https://github.com/Kangasalakehitys/osallisuus/" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
-    <a href="" title="Share" id="sidebar-tool-dropdown-0" class="sidebar-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-share"></i></a>
-    <ul class="dropdown-menu" aria-labelledby="sidebar-tool-dropdown-0">
-        <li>
-          <a class="dropdown-item sidebar-tools-main-item" href="https://twitter.com/intent/tweet?url=|url|">
-            <i class="bi bi-bi-twitter pe-1"></i>
-          Twitter
-          </a>
-        </li>
-        <li>
-          <a class="dropdown-item sidebar-tools-main-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
-            <i class="bi bi-bi-facebook pe-1"></i>
-          Facebook
-          </a>
-        </li>
-        <li>
-          <a class="dropdown-item sidebar-tools-main-item" href="https://www.linkedin.com/sharing/share-offsite/?url=|url|">
-            <i class="bi bi-bi-linkedin pe-1"></i>
-          LinkedIn
-          </a>
-        </li>
-    </ul>
-</div>
+      <a href="./">Kangasalan kaupunki - Osallisuus- ja vuorovaikutussuunnitelma</a> 
     </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
       </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
@@ -178,25 +168,19 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#aloite" id="toc-aloite" class="nav-link active" data-scroll-target="#aloite"><span class="toc-section-number">3.1</span>  Aloite</a></li>
   <li><a href="#asukas--ja-info-tilaisuudet" id="toc-asukas--ja-info-tilaisuudet" class="nav-link" data-scroll-target="#asukas--ja-info-tilaisuudet"><span class="toc-section-number">3.2</span>  Asukas- ja info-tilaisuudet</a></li>
   <li><a href="#avoimet-ovet" id="toc-avoimet-ovet" class="nav-link" data-scroll-target="#avoimet-ovet"><span class="toc-section-number">3.3</span>  Avoimet ovet</a></li>
-  <li><a href="#avoin-palautteiden-ja-aloitteiden-etenemisprosessin-seuranta" id="toc-avoin-palautteiden-ja-aloitteiden-etenemisprosessin-seuranta" class="nav-link" data-scroll-target="#avoin-palautteiden-ja-aloitteiden-etenemisprosessin-seuranta"><span class="toc-section-number">3.4</span>  Avoin palautteiden ja aloitteiden etenemisprosessin seuranta</a></li>
-  <li><a href="#esityslistat-pöytäkirjat-ja-viranhaltijapäätökset" id="toc-esityslistat-pöytäkirjat-ja-viranhaltijapäätökset" class="nav-link" data-scroll-target="#esityslistat-pöytäkirjat-ja-viranhaltijapäätökset"><span class="toc-section-number">3.5</span>  Esityslistat, pöytäkirjat ja viranhaltijapäätökset</a></li>
-  <li><a href="#info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta" id="toc-info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta" class="nav-link" data-scroll-target="#info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta"><span class="toc-section-number">3.6</span>  Info asukkaiden palautteiden ja aloitteiden huomioimisesta</a></li>
-  <li><a href="#kangasalan-kaupunki-info" id="toc-kangasalan-kaupunki-info" class="nav-link" data-scroll-target="#kangasalan-kaupunki-info"><span class="toc-section-number">3.7</span>  Kangasalan kaupunki-info</a></li>
-  <li><a href="#kaupungin-kirjaamo---virallinen-yhteydenotto" id="toc-kaupungin-kirjaamo---virallinen-yhteydenotto" class="nav-link" data-scroll-target="#kaupungin-kirjaamo---virallinen-yhteydenotto"><span class="toc-section-number">3.8</span>  Kaupungin kirjaamo - virallinen yhteydenotto</a></li>
-  <li><a href="#palautekanavat" id="toc-palautekanavat" class="nav-link" data-scroll-target="#palautekanavat"><span class="toc-section-number">3.9</span>  Palautekanavat</a>
-  <ul class="collapse">
-  <li><a href="#kaupunki" id="toc-kaupunki" class="nav-link" data-scroll-target="#kaupunki"><span class="toc-section-number">3.9.1</span>  Kaupunki</a></li>
-  <li><a href="#julkiset-palautekanavat" id="toc-julkiset-palautekanavat" class="nav-link" data-scroll-target="#julkiset-palautekanavat"><span class="toc-section-number">3.9.2</span>  Julkiset palautekanavat</a></li>
-  </ul></li>
+  <li><a href="#esityslistat-pöytäkirjat-ja-viranhaltijapäätökset" id="toc-esityslistat-pöytäkirjat-ja-viranhaltijapäätökset" class="nav-link" data-scroll-target="#esityslistat-pöytäkirjat-ja-viranhaltijapäätökset"><span class="toc-section-number">3.4</span>  Esityslistat, pöytäkirjat ja viranhaltijapäätökset</a></li>
+  <li><a href="#info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta" id="toc-info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta" class="nav-link" data-scroll-target="#info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta"><span class="toc-section-number">3.5</span>  Info asukkaiden palautteiden ja aloitteiden huomioimisesta</a></li>
+  <li><a href="#kangasalan-kaupunki-info" id="toc-kangasalan-kaupunki-info" class="nav-link" data-scroll-target="#kangasalan-kaupunki-info"><span class="toc-section-number">3.6</span>  Kangasalan kaupunki-info</a></li>
+  <li><a href="#kaupungin-kirjaamo---virallinen-yhteydenotto" id="toc-kaupungin-kirjaamo---virallinen-yhteydenotto" class="nav-link" data-scroll-target="#kaupungin-kirjaamo---virallinen-yhteydenotto"><span class="toc-section-number">3.7</span>  Kaupungin kirjaamo - virallinen yhteydenotto</a></li>
+  <li><a href="#kaupungin-viralliset-palautekanavat" id="toc-kaupungin-viralliset-palautekanavat" class="nav-link" data-scroll-target="#kaupungin-viralliset-palautekanavat"><span class="toc-section-number">3.8</span>  Kaupungin viralliset palautekanavat</a></li>
+  <li><a href="#julkiset-palautekanavat" id="toc-julkiset-palautekanavat" class="nav-link" data-scroll-target="#julkiset-palautekanavat"><span class="toc-section-number">3.9</span>  Julkiset palautekanavat</a></li>
   <li><a href="#kokousvideoinnit" id="toc-kokousvideoinnit" class="nav-link" data-scroll-target="#kokousvideoinnit"><span class="toc-section-number">3.10</span>  Kokousvideoinnit</a></li>
-  <li><a href="#kyselyt-päätöksenteon-tueksi" id="toc-kyselyt-päätöksenteon-tueksi" class="nav-link" data-scroll-target="#kyselyt-päätöksenteon-tueksi"><span class="toc-section-number">3.11</span>  Kyselyt päätöksenteon tueksi</a></li>
+  <li><a href="#erilaiset-kertaluonteiset-kyselyt-päätöksenteon-tueksi" id="toc-erilaiset-kertaluonteiset-kyselyt-päätöksenteon-tueksi" class="nav-link" data-scroll-target="#erilaiset-kertaluonteiset-kyselyt-päätöksenteon-tueksi"><span class="toc-section-number">3.11</span>  Erilaiset kertaluonteiset kyselyt päätöksenteon tueksi</a></li>
   <li><a href="#monikanavainen-viestintä" id="toc-monikanavainen-viestintä" class="nav-link" data-scroll-target="#monikanavainen-viestintä"><span class="toc-section-number">3.12</span>  Monikanavainen viestintä</a></li>
-  <li><a href="#osallistukangasala.fi" id="toc-osallistukangasala.fi" class="nav-link" data-scroll-target="#osallistukangasala.fi"><span class="toc-section-number">3.13</span>  ✴️ Osallistukangasala.fi</a></li>
-  <li><a href="#palvelupalaute" id="toc-palvelupalaute" class="nav-link" data-scroll-target="#palvelupalaute"><span class="toc-section-number">3.14</span>  Palvelupalaute</a></li>
-  <li><a href="#tilastotietoa-kangasalta" id="toc-tilastotietoa-kangasalta" class="nav-link" data-scroll-target="#tilastotietoa-kangasalta"><span class="toc-section-number">3.15</span>  Tilastotietoa Kangasalta</a></li>
-  <li><a href="#vuosikello-kaupungin-toiminnasta" id="toc-vuosikello-kaupungin-toiminnasta" class="nav-link" data-scroll-target="#vuosikello-kaupungin-toiminnasta"><span class="toc-section-number">3.16</span>  ✴️Vuosikello kaupungin toiminnasta</a></li>
+  <li><a href="#palvelupalaute" id="toc-palvelupalaute" class="nav-link" data-scroll-target="#palvelupalaute"><span class="toc-section-number">3.13</span>  Palvelupalaute</a></li>
+  <li><a href="#tilastotietoa-kangasalta" id="toc-tilastotietoa-kangasalta" class="nav-link" data-scroll-target="#tilastotietoa-kangasalta"><span class="toc-section-number">3.14</span>  Tilastotietoa Kangasalta</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Kangasalakehitys/osallisuus/edit/main/tieto_osallisuus.qmd" class="toc-action">Muokkaa sivua</a></p></div></div><div class="quarto-alternate-formats"><h2>Muut muodot</h2><ul><li><a href="tieto_osallisuus.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -232,32 +216,25 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-number="3.3" class="anchored" data-anchor-id="avoimet-ovet"><span class="header-section-number">3.3</span> Avoimet ovet</h2>
 <p>Kulttuuripalvelut järjestävät Kangasalla kerran vuodessa museoihin ja gallerioihin vapaan pääsyn. Varhaiskasvatuksessa, opetuksessa ja koulutuksessa järjestetään mm. läheisenpäiviä, kodin ja koulun päiviä ja erilaisia muita teemapäiviä, joihin huoltajat ja myös esim. isovanhemmat ovat tervetulleita.</p>
 </section>
-<section id="avoin-palautteiden-ja-aloitteiden-etenemisprosessin-seuranta" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="avoin-palautteiden-ja-aloitteiden-etenemisprosessin-seuranta"><span class="header-section-number">3.4</span> Avoin palautteiden ja aloitteiden etenemisprosessin seuranta</h2>
-<p>On olemassa, mutta ei etenemistä?</p>
-</section>
-<section id="esityslistat-pöytäkirjat-ja-viranhaltijapäätökset" class="level2" data-number="3.5">
-<h2 data-number="3.5" class="anchored" data-anchor-id="esityslistat-pöytäkirjat-ja-viranhaltijapäätökset"><span class="header-section-number">3.5</span> Esityslistat, pöytäkirjat ja viranhaltijapäätökset</h2>
+<section id="esityslistat-pöytäkirjat-ja-viranhaltijapäätökset" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="esityslistat-pöytäkirjat-ja-viranhaltijapäätökset"><span class="header-section-number">3.4</span> Esityslistat, pöytäkirjat ja viranhaltijapäätökset</h2>
 <p>Kaupungin luottamustoimielinten esityslistat ja pöytäkirjat löytyvät kaupungin verkkosivuilta <a href="http://kangasala.tweb.fi/ktwebbin/dbisa.dll/ktwebscr/epj_tek_tweb.htm">Esityslistat ja pöytäkirjat sekä viranhaltijapäätökset 1.1.2019 alkaen</a></p>
 </section>
-<section id="info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta" class="level2" data-number="3.6">
-<h2 data-number="3.6" class="anchored" data-anchor-id="info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta"><span class="header-section-number">3.6</span> Info asukkaiden palautteiden ja aloitteiden huomioimisesta</h2>
+<section id="info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="info-asukkaiden-palautteiden-ja-aloitteiden-huomioimisesta"><span class="header-section-number">3.5</span> Info asukkaiden palautteiden ja aloitteiden huomioimisesta</h2>
 <p>Palautteen antajalle ja aloitteen tekijälle vahvistetaan, miten hänen antamansa palaute tai aloite on otettu huomioon asioiden suunnittelussa ja päätöksenteossa. Jos palautetta tai aloitetta ei ole voitu ottaa huomioon, niin perustellaan huomioimatta jättäminen.</p>
-<p>Ulkoalueiden hankkeiden suunnitelmat asetetaan yleisesti nähtäville ja suunnitelmista on mahdollisuus jättää palautetta. Kaikki palautteet käsitellään ja niihin vastataan hankkeen suuruudesta riippuen viranhaltijapäätöksessä tai elinympäristölautakunnan päätöksessä, joka lähetetään kaikille palautteen jättäjille.</p>
-<p>Kangasalla Kaavasuunnittelua koskevat palautteet käsitellään ja huomioidaan voimassaolevan lainsäädännön mukaisesti. Kaavaselostuksessa kuvataan millaista palautetta on saatu ja miten se on voitu ottaa huomioon kaavan valmistelussa.</p>
+<p>Esimerkkinä ulkoalueiden hankkeiden suunnitelmat asetetaan yleisesti nähtäville ja suunnitelmista on mahdollisuus jättää palautetta. Kaikki palautteet käsitellään ja niihin vastataan hankkeen suuruudesta riippuen viranhaltijapäätöksessä tai elinympäristölautakunnan&nbsp;päätöksessä, joka lähetetään kaikille palautteen jättäjille.</p>
 </section>
-<section id="kangasalan-kaupunki-info" class="level2" data-number="3.7">
-<h2 data-number="3.7" class="anchored" data-anchor-id="kangasalan-kaupunki-info"><span class="header-section-number">3.7</span> Kangasalan kaupunki-info</h2>
-<p>Kangasalan kaupunki-info palvelee Lentolan Prismassa. Kaupunki-info palvelee tiistaista perjantaihin klo 10 – 18 sekä lauantaisin klo 10 – 14. Puhelin infoon on 044 481 3022</p>
+<section id="kangasalan-kaupunki-info" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="kangasalan-kaupunki-info"><span class="header-section-number">3.6</span> Kangasalan kaupunki-info</h2>
+<p>Kangasalan kaupunki-info palvelee Lentolan Prismassa. Kaupunki-info palvelee tiistaista perjantaihin&nbsp;sekä lauantaisin. Puhelin infoon on 044 481 3022.</p>
 </section>
-<section id="kaupungin-kirjaamo---virallinen-yhteydenotto" class="level2" data-number="3.8">
-<h2 data-number="3.8" class="anchored" data-anchor-id="kaupungin-kirjaamo---virallinen-yhteydenotto"><span class="header-section-number">3.8</span> Kaupungin kirjaamo - virallinen yhteydenotto</h2>
+<section id="kaupungin-kirjaamo---virallinen-yhteydenotto" class="level2" data-number="3.7">
+<h2 data-number="3.7" class="anchored" data-anchor-id="kaupungin-kirjaamo---virallinen-yhteydenotto"><span class="header-section-number">3.7</span> Kaupungin kirjaamo - virallinen yhteydenotto</h2>
 <p>Kaupungin asukas voi tehdä kaupungin hallinnolle virallisen yhteydenoton joko sähköisesti sähköpostiosoitteeseen kirjaamo@kangasala.fi tai toimittamalla yhteydenotto kaupungin kirjaamoon. Virallista yhteydenottoa ei voi tehdä nimettömänä.</p>
 </section>
-<section id="palautekanavat" class="level2" data-number="3.9">
-<h2 data-number="3.9" class="anchored" data-anchor-id="palautekanavat"><span class="header-section-number">3.9</span> Palautekanavat</h2>
-<section id="kaupunki" class="level3" data-number="3.9.1">
-<h3 data-number="3.9.1" class="anchored" data-anchor-id="kaupunki"><span class="header-section-number">3.9.1</span> Kaupunki</h3>
+<section id="kaupungin-viralliset-palautekanavat" class="level2" data-number="3.8">
+<h2 data-number="3.8" class="anchored" data-anchor-id="kaupungin-viralliset-palautekanavat"><span class="header-section-number">3.8</span> Kaupungin viralliset palautekanavat</h2>
 <ul>
 <li><p>Kaupungin palautekanava: <a href="https://q.surveypal.com/PALAUTTEET/0">Kaupungin palautekanava</a></p></li>
 <li><p>Katuinfraa, kunnossapitoa, valaistusta, puistoja, uimarantoja, leikkialueita ja liikennettä koskevat palautteet: <a href="https://louhi-kangasala.sitowise.com/palaute">Infrapalaute</a></p></li>
@@ -269,22 +246,27 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://q.surveypal.com/Kuntalaisaloite---kopio/0">Kangasalan kuntalaisaloite</a></p></li>
 <li><p>Sähköpostiosoitteeseen kirjaamo@kangasala.fi</p></li>
 <li><p><a href="https://www.hankintailmoitukset.fi/fi/search?q=Kangasala">Sähköinen hankintakanava - Hilma</a></p></li>
+<li><p>Palvelupalaute&nbsp;</p>
+<ul>
+<li><p>Vatialan kirjasto , pääkirjasto, kulttuuripalvelut (kierrätettävä)&nbsp;</p></li>
+<li><p>Ateria- ja siivoupalalvelut 3 x HappyOrNot laitetta (kiertäviä laitteita)</p></li>
+</ul></li>
 </ul>
 </section>
-<section id="julkiset-palautekanavat" class="level3" data-number="3.9.2">
-<h3 data-number="3.9.2" class="anchored" data-anchor-id="julkiset-palautekanavat"><span class="header-section-number">3.9.2</span> Julkiset palautekanavat</h3>
+<section id="julkiset-palautekanavat" class="level2" data-number="3.9">
+<h2 data-number="3.9" class="anchored" data-anchor-id="julkiset-palautekanavat"><span class="header-section-number">3.9</span> Julkiset palautekanavat</h2>
+<p>Otakantaa.fi ja Kuntalaisaloite.fi ovat oikeusministeriön ylläpitämiä ja tuottamia verkkopalveluja.</p>
 <ul>
 <li><p><a href="https://www.otakantaa.fi/fi/">Otakantaa.fi</a></p></li>
 <li><p><a href="https://www.kuntalaisaloite.fi/fi">Kuntalaisaloite.fi</a></p></li>
 </ul>
 </section>
-</section>
 <section id="kokousvideoinnit" class="level2" data-number="3.10">
 <h2 data-number="3.10" class="anchored" data-anchor-id="kokousvideoinnit"><span class="header-section-number">3.10</span> Kokousvideoinnit</h2>
 <p>Kangasalan Sanomat videoi kaupunginvaltuuston kokoukset. Tallenteet löytyvät <a href="https://kangasalansanomat.fi/videot/valtuusto">Kangasalan Sanomien verkkosivuilta</a>.</p>
 </section>
-<section id="kyselyt-päätöksenteon-tueksi" class="level2" data-number="3.11">
-<h2 data-number="3.11" class="anchored" data-anchor-id="kyselyt-päätöksenteon-tueksi"><span class="header-section-number">3.11</span> Kyselyt päätöksenteon tueksi</h2>
+<section id="erilaiset-kertaluonteiset-kyselyt-päätöksenteon-tueksi" class="level2" data-number="3.11">
+<h2 data-number="3.11" class="anchored" data-anchor-id="erilaiset-kertaluonteiset-kyselyt-päätöksenteon-tueksi"><span class="header-section-number">3.11</span> Erilaiset kertaluonteiset kyselyt päätöksenteon tueksi</h2>
 <p>Kaupunki toteuttaa sähköisiä kyselyitä asukkaille kaupungin toiminnan kehittämiseksi.</p>
 <ul>
 <li><p>Hyvinvointikysely: Ei tällä hetkellä voimassaolevia kyselyitä</p></li>
@@ -319,25 +301,19 @@ ul.task-list li input[type="checkbox"] {
 <li><p>(Dreambroker-kanava): <a href="https://dreambroker.com/channel/89q2oh3a/#/menu">Kangasala-kanava</a></p></li>
 <li><p>Youtube: <a href="https://www.youtube.com/@kangasalankaupunki9294">Kangasalan kaupunki</a></p></li>
 </ul></li>
+<li><p>Infonäytöt</p></li>
+<li><p>Perinteiset ilmoitustaulut</p></li>
 </ul>
 </section>
-<section id="osallistukangasala.fi" class="level2" data-number="3.13">
-<h2 data-number="3.13" class="anchored" data-anchor-id="osallistukangasala.fi"><span class="header-section-number">3.13</span> ✴️ Osallistukangasala.fi</h2>
-<p><span style="color:red">Onko Kangasalla tarvetta erilliselle sivustolle, jossa on kootusti kaikki?</span></p>
-<ul>
-<li><p><a href="https://osallistuvavantaa.fi/" class="uri">https://osallistuvavantaa.fi/</a></p></li>
-<li><p><a href="https://osallistu.tuusula.fi" class="uri">https://osallistu.tuusula.fi</a></p></li>
-</ul>
-</section>
-<section id="palvelupalaute" class="level2" data-number="3.14">
-<h2 data-number="3.14" class="anchored" data-anchor-id="palvelupalaute"><span class="header-section-number">3.14</span> Palvelupalaute</h2>
+<section id="palvelupalaute" class="level2" data-number="3.13">
+<h2 data-number="3.13" class="anchored" data-anchor-id="palvelupalaute"><span class="header-section-number">3.13</span> Palvelupalaute</h2>
 <p>Vatialan kirjasto , pääkirjasto, kulttuuripalvelut (kierrätettävä)</p>
 <ul>
 <li>Ateria- ja siivoupalalvelut 3 x HappyOrNot laitetta (kiertäviä laitteita)</li>
 </ul>
 </section>
-<section id="tilastotietoa-kangasalta" class="level2" data-number="3.15">
-<h2 data-number="3.15" class="anchored" data-anchor-id="tilastotietoa-kangasalta"><span class="header-section-number">3.15</span> Tilastotietoa Kangasalta</h2>
+<section id="tilastotietoa-kangasalta" class="level2" data-number="3.14">
+<h2 data-number="3.14" class="anchored" data-anchor-id="tilastotietoa-kangasalta"><span class="header-section-number">3.14</span> Tilastotietoa Kangasalta</h2>
 <p>Tilastotietoa Kangasalta on saatavissa useammasta paikasta:</p>
 <ul>
 <li><a href="https://www.kangasala.fi/kaupunki-ja-paatoksenteko/hallinto-ja-talous/strategiat-talous-ja-tilastot/tilastot-ja-tutkimus/tilastokirjat/">Kangasalan tilastokirjat</a></li>
@@ -347,10 +323,6 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://tilastokeskus.fi/tup/seutunet/tampere_index.html">SeutuNet: Tampereen kaupunkiseutu</a></li>
 <li><a href="https://kangasalakehitys.github.io/tilastot/yleistieto/">Tilastotietoa Kangasalta</a></li>
 </ul>
-</section>
-<section id="vuosikello-kaupungin-toiminnasta" class="level2" data-number="3.16">
-<h2 data-number="3.16" class="anchored" data-anchor-id="vuosikello-kaupungin-toiminnasta"><span class="header-section-number">3.16</span> ✴️Vuosikello kaupungin toiminnasta</h2>
-<p><span style="color:red">Onko Kangasalla tarvetta?</span></p>
 
 
 </section>
