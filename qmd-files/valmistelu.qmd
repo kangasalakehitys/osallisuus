@@ -1,0 +1,37 @@
+# Valmistelu ja tavoitteet
+
+Suunnitelman laadintaan ja valmisteluun on osallistunut poikkihallinnollinen tiimi eri palvelukeskuksista. Työryhmä työskenteli kevään ja syksyn 2023 ajan. Työn keskisiä tehtäviä on selkeyttää osallisuuden kokonaisuutta ja tuoda uusia vaihtoehtoja esille. Valmistelussa on käytetty osallistuvaa työotetta. Suunnitelman tarkoituksena on avata osallisuuden käsitettä ja kuvata nykyisen osallisuuden muotoja sekä kehittää toimintatapoja.
+
+Osallisuussuunnitelma on tehty, sillä Kuntalain mukaan kuntalaisten itsehallinnon vakavasti ottava kunta muotoilee (lainsäädännön raameissa) palveluita yhdessä kuntalaisten kanssa. Suunnitelma tukee myös hyvinvointia, sillä osallisuutta kokeva ja yhteiskuntaan kiinnittyvä kaupunkilainen pystyy tuottamaan ja jakamaan hyvinvointia muille. Tämä lisää yhteisön hyvinvointia. Vahva osallisuus luo turvallista arkea ja myönteisissä kohtaamisessa syntyy myös uusia ajatuksia. Yhteisöt ovat myös resurssien käytön ja kehittämisen kannalta olellisia voimavaroja kaupungissa. Avoin päätöksenteko ja yhdessä tuotettu tieto hyödyttävät ja tekevät päätöksistä hyväksyttävämpiä. Yhteisöjen ja osallisuuden kautta ehkäistään myös syrjäytymistä. Kaupungille osallisuuden edistäminen on laissa määritelty. Oikeus osallistua yhteiskunnan ja elinympäristönsä kehittämiseen on määritelty perustuslaissa.
+
+## Strategia {#sec-strategia}
+
+![](themes/Kangasala_strategiakuva-vaaka-2022-1536x885.jpg){fig-alt="Kangasalan kaupunkistrategiakuva"}
+
+Osallisuus ja vuorovaikutussuunnitelman tavoitteena on kaupungin, asukkaiden ja sidosryhmien välisen vuorovaikutuksen edistäminen ja tukeminen. Työ tukeutuu Kangasalan kaupungin strategiaan, jossa yhtenä tavoitteena on **Osallistava ja palveleva, sujuvan arjen Kangasala**. Kangasalan kaupunkistrategiaan voi kokonaisuudessaan tutustua tämän linkin kautta - [Kangasalan kaupunkistrategian 2029](https://www.kangasala.fi/wp-content/uploads/2023/02/kaupunkistrategia-2029_3-sivua_paivitetty.pdf "Kangasalan kaupunkistrategian 2029").
+
+Keväästä 2023 lähtien kaupungilla on työskennellyt osallisuuskoordinaattori, jonka tehtävä on löytää asukkaille sopivia tapoja osallistua, vaikuttaa sekä kuulua yhteisöihin. Osallisuuskoordinaattorin tehtävänä on kehittää toimintatapoja ja rakenteita, joilla edistetään kaupungin, asukkaiden sekä järjestöjen välistä vuorovaikutusta ja yhteistyötä.
+
+### Osallistava ja palveleva, sujuvan arjen Kangasala
+
+::: columns
+::: {.column width="20%"}
+![](themes/leima_osallisuus.png){fig-alt="Osallistava ja palveleva, sujuvan arjen Kangasala"}
+:::
+
+::: {.column width="80%"}
+-   Kerromme aktiivisesti ja avoimesti toiminnastamme
+
+-   Kuulemme palautteen ja kehitämme asiakaskokemusta
+
+-   **Edistämme osallisuutta ja yhteisöllisyyttä, yhtenä painotuksena perheiden ja vanhemmuuden tukeminen**
+
+-   Lisäämme avustuksilla ja yhteistyöllä kolmannen sektorin vaikuttavuutta
+
+-   Edistämme esteettömyyttä palveluissa, suunnittelussa ja rakentamisessa
+
+-   Lisäämme sähköisiä palveluita kaupunkilaisille
+
+-   Vastuullinen viestintä on kaikkien yhteinen asia
+:::
+:::

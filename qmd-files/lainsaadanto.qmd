@@ -1,0 +1,65 @@
+# Osallisuus lainsäädännössä
+
+Vuodesta 1995 lähtien Kuntalaissa on ollut oma luku asukkaiden osallistumisoikeuteen. Kuntalain 5 luku 22 §:n mukaan kunnan asukkailla ja palvelujen käyttäjillä on oikeus osalloistua ja vaikuttaa kunnan toimintaan. Valtuuston on pidettävä huolta monipuolisista ja vaikuttavista osallistumisen mahdollisuuksista. Kunnat päättävät siis itse toimintatavoistaan. [@kurikka_piipponen_2020]
+
+::: columns
+::: {.column width="50%"}
+-   22 § Osallistumis- ja vaikuttamismahdollisuudet
+
+    -   Kunnan asukkailla ja palvelujen käyttäjillä on oikeus osallistua ja vaikuttaa kunnan toimintaan. Valtuuston on pidettävä huolta monipuolisista ja vaikuttavista osallistumisen mahdollisuuksista.
+
+    -   Osallistumista ja vaikuttamista voidaan edistää erityisesti:
+
+    22.1 §
+
+    -   Järjestämällä keskustelu‐ ja kuulemistilaisuuksia sekä kuntalaisraateja
+    -   Selvittämällä asukkaiden mielipiteitä ennen päätöksentekoa
+    -   Hyödyntämällä ja järjestämällä asiakas- ja kuntalaisraateja
+
+    22.2 §
+
+    -   Asiakas- ja käyttäjäkyselyiden toteuttaminen mielipiteiden selvittämiksesi
+    -   Kuntalaiskyselyt
+    -   Kuntalaishaastattelut
+
+    22.3 §
+
+    -   Tuomalla palveluiden käyttäjien edustajia toimielimiin esimerkiksi kokemusasiantuntijoiden tai kehittämisasiakkaiden muodossa.
+
+    22.4 §
+
+    -   Järjestämällä mahdollisuuksia osallistua kunnan talouden suunnitteluun osallistuvan budjetoinnin kautta.
+
+    22.5 §
+
+    -   Palvelujen suunnittelu ja yhteiskehittäminen yhteistyössä yhdistysten ja järjestöjen kanssa 
+    -   Järjestämällä yhteissuunnittelutilaisuusksia tai hyödyntämällä kumppanuuspöytämallia 
+    -   Palvelumuotoilemalla palveluita yhteistyössä
+
+    22.6 §
+
+    -   Asukkaiden ja järjestöjen oma-aloitteisen suunnittelun ja valmistelun tukeminen 
+    -   Järjestötyön tukeminen
+    -   Uusien osallistumismuotojen kehittäminen
+:::
+
+::: {.column width="50%"}
+-   20 § Äänioikeus kuntavaaleissa
+
+-   21 § Äänestysoikeus kunnallisessa kansanäänestyksessä
+
+-   23 § Aloiteoikeus
+
+-   24 § Kunnallinen kansanäänestys
+
+-   25 § Kansanäänestysaloite
+
+-   26 § Nuorisovaltuusto
+
+-   27 § Vanhusneuvosto
+
+-   28 § Vammaisneuvosto
+
+-   29 § Viestintä
+:::
+:::

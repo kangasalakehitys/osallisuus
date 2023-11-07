@@ -1,0 +1,54 @@
+/*-- scss:defaults --*/
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+$font-family-sans-serif: "Questrial", sans-serif !default;
+$font-size-root: 14px;
+$h5-font-size: 16px;
+$toc-font-size: 14px;
+
+//presentation fonts
+$presentation-font-size-root: 20px;
+$presentation-font-smaller: 0.4em;
+$presentation-h1-font-size: 2.5em;
+$presentation-h2-font-size: 1.6em;
+$presentation-h3-font-size: 1.3em;
+$presentation-h4-font-size: 1em;
+$presentation-h5-font-size: 0.9em;
+
+
+// colors
+$body-bg: #FFFFFF !default;
+$body-color: #000 !default;
+$link-color: #00ADC5 !default;
+$selection-bg: #28336C !default;
+
+// headings
+$presentation-heading-font: "Questrial", sans-serif !default;
+$presentation-heading-color: #DE232F !default;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+}
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+.reveal section {
+  background-color: white;
+  color: black;
+}
+.reveal {
+  background-color: white;
+}
+.reveal section h1 {
+  color: #DE232F;
+}
+.reveal section h2 {
+  color: #DE232F;
+}
+.reveal section a {
+  color: #00ADC5;
+}

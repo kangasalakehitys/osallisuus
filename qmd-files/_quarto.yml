@@ -1,0 +1,54 @@
+# Copyright 2023 Kangasalan kaupunki, LGPL 2.1
+project:
+  type: book
+  output-dir: book
+lang: fi
+bibliography: references.bib
+number-sections: true
+editor: visual  
+execute:
+  echo: false
+  warning: false
+
+book:
+  title: "{{< var title >}}"
+  subtitle: "{{< meta book.version >}}"
+  author: "{{< var author >}}"
+  date: today
+  date-format: "DD-MM-YYYY"
+  version: "v.0.3"
+  page-navigation: true
+  cover-image: themes/Kangasala_cover.png
+  site-url: https://kangasalakehitys.github.io/osallisuus/
+  search:
+    location: sidebar
+    type: overlay
+  sidebar:
+    logo: themes/Kangasala_logo_RGB_color.png
+    collapse-level: 3
+    pinned: false
+
+  chapters:
+    - index.qmd
+    - valmistelu.qmd
+    - tasot.qmd
+    - tieto_osallisuus.qmd
+    - suunnitteluosallisuus.qmd
+    - paatoksenteko_osallisuus.qmd
+    - toimintaosallisuus.qmd
+    - arviointi.qmd
+    - lainsaadanto.qmd
+        
+  appendices:
+    - lahteet.qmd
+
+  page-footer:
+    center: 
+      - text: "Copyright 2023 Kangasalan kaupunki, LGPL 2.1"
+
+format:
+  html: 
+    theme: themes/mytheme.scss
+    cover-image: themes/Kangasala_cover.png
+    code-link: true
+    
