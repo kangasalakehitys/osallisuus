@@ -1,4 +1,4 @@
-# Kangasalan kaupungin osallisuus ja vuorovaikutussuunnitelma
+# Kangasalan kaupungin osallisuus- ja vuorovaikutussuunnitelma
 
 <img src="https://github.com/Kangasalakehitys/osallisuus/blob/main/docs/themes/Kangasala_cover.png">
 
