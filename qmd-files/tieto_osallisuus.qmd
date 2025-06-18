@@ -16,9 +16,9 @@ Kangasalla järjestetään uusien asukkaiden tilaisuus vuosittain kulttuuri- ja 
 
 ## Avoimet ovet
 
-Kulttuuripalvelut järjestävät Kangasalla kerran vuodessa museoihin ja gallerioihin vapaan pääsyn. Varhaiskasvatuksessa, opetuksessa ja koulutuksessa järjestetään mm. läheisenpäiviä, kodin ja päiväkodin/koulun päiviä ja erilaisia muita teemapäiviä, joihin huoltajat ja myös esim. isovanhemmat ovat tervetulleita.
+Varhaiskasvatuksessa, opetuksessa ja koulutuksessa järjestetään mm. läheisenpäiviä, kodin ja päiväkodin/koulun päiviä ja erilaisia muita teemapäiviä, joihin huoltajat ja myös esim. isovanhemmat ovat tervetulleita.
 
-Nuorisopalvelut järjestävät tarpeen mukaan huoltajille suunnattuja avoimia ovia ja huoltajien keskusteluiltoja nuorisotiloilla.Kulttuuripalvelut järjestävät Kangasalla kerran vuodessa museoihin ja gallerioihin vapaan pääsyn.
+Nuorisopalvelut järjestävät tarpeen mukaan huoltajille suunnattuja avoimia ovia ja huoltajien keskusteluiltoja nuorisotiloilla. 
 
 ## Esityslistat, pöytäkirjat ja viranhaltijapäätökset
 
@@ -81,20 +81,6 @@ Kaupungin asukas voi tehdä kaupungin hallinnolle virallisen yhteydenoton joko s
 
 -   [Pyydä apua-nappi](https://q.surveypal.com/Pyyda-apua!/0)
 
-### Sähköinen perhekeskus
-
--   [Sähköinen perhekeskus](https://q.surveypal.com/Sahkoinen-perhekeskus/0)
-
-    Palvelupalaute 
-
-    -   Pääkirjasto, kulttuuripalvelut (kierrätettävä)
-
-    -   Ateria- ja siivoupalalvelut 3 x HappyOrNot laitetta (kiertäviä laitteita)
-
-### Kangasalan Vesi -liikelaitoksen palautekanava
-
--   [Kangasalan Vesi -liikelaitoksen palautekanava](https://www.kangasalanvesi.fi/palaute/)
-
 ### Kangasalan uimahalli - palautekanava
 
 -   [Kangasalan uimahalli - palautekanava](https://kangasalanuimahalli.fi/ota-yhteytta/palaute/)
@@ -121,31 +107,31 @@ Kangasalan Sanomat videoi kaupunginvaltuuston kokoukset. Tallenteet löytyvät [
 
 ## Kyselyt päätöksenteon tueksi ja toiminnan kehittämiseksi
 
-Kaupunki toteuttaa monipuolisin viestintätavoin toteutettuja kyselyitä asukkaille kaupungin toiminnan
+Kaupunki toteuttaa monipuolisin viestintätavoin toteutettuja kyselyitä asukkaille kaupungin toiminnan kehittämiseksi.
 
--   Hyvinvointikysely: Ei tällä hetkellä voimassaolevia kyselyitä
+-   Hyvinvointikysely: toteutetaan noin neljän vuoden välein
 
 -   Kaavoitus- ja aluekehityshankkeisiin liittyvät kyselyt
 
--   Kaupunkikehityskysely: Kaupunkikehitystiimi järjesti syksyllä 2020 kyselyn kaupunkilaisille, jossa pyydettiin kaupunkilaisten näkemyksiä Kangasalan kaupungin nykytilasta ja ajatuksia kaupungin kehittämisestä. **Linkki [Kaupunkikehityskyselyn koosteeseen.](https://www.kangasala.fi/wp-content/uploads/2020/12/Kaupunkikehityskysely-osallistu-ja-vaikuta.pdf)**
-
 -   Kulttuurikasvatuksessa toteutetut kyselyt kouluille
 
--   Kyselyt oppilaille ja huoltajille: Opetus- ja koulutuspalveluiden tai koulujen omat kyselyt, joista tiedotetaan vastaajia erikseen
+-   Kausiasukaskysely
 
--   Kyselyt liikuntapalveluiden käyttäjille oman toiminnan kehittämiseksi.
+-   Kyselyt oppilaille ja huoltajille: Opetus- ja koulutuspalveluiden tai koulujen omat kyselyt, joista tiedotetaan vastaajia erikseen.
+
+-   Kyselyt liikuntapalveluiden käyttäjille oman toiminnan kehittämiseksi
 
 -   Nuorisopalvelut toteuttavat palautekyselyjä kausittain, joko valtakunnallisella kyselyllä tai omalla Forms-kyselyllä
 
+-   Sovari-kyselyt. Sovari -sosiaalisen vahvistamisen mittari tuottaa tietoa etsivän nuorisotyön ja työpajatoiminnan laadusta ja vaikutuksesta elämäntaitoihin. 
+
 -   Nuorisovaltuusto toteuttaa kyselyitä ajankohtaisista tai vaikuttamistapahtumiin liittyvistä aiheista sosiaalisessa mediassa, yhteistyössä oppilaskuntien kanssa ja joskus Wilma-viestillä suoraan oppilaille.
 
--   Osana Unicefin Lapsiystävällinen kunta-työn nykytilakartoitusta lapsia ja nuoria kuullaan heidän kokemuksistaan ja näkemyksistään lasten oikeuksien toteutumisesta Kangasalla sekä kehittämisideoista.
+-   Unicefin Lapsiystävällinen kunta-työn osana lapsia ja nuoria kuullaan toimintasuunnitelman mukaisesti erilaisten kyselyiden avulla. 
 
 -   Rakentamisen palvelualueen hankkeissa on käytössä sähköiset kyselyt. Kyselyissä ja vastauksissa hyödynnetään kaupungin internet-sivuja ja some-kanavia.
 
 -   Ateria- ja siivouspalvelujen toiveruokakyselyt. Asiakkaat voivat äänestää viikon ruoat ja antaa palautetta ruokalistoilla olevista ruoista.
-
--   Ulkoalueiden hankkeissa ollut käytössä sähköiset kyselyt. Kyselyt ja vastaukset linkitetty myös Ulkoalueiden omalle sivustolle: Viheralueet ja ulkoliikuntapaikat - Kangasala ja kaupungin some-kanaviin. 
 
 -   Varhaiskasvatuksessa aloittaneiden kysely kaksi kertaa vuodessa sekä varhaiskasvatuksen ja esiopetuksen vuosittainen asiakastyytyväisyyskysely. Lisäksi vuosittain toteutetaan lasten kysely.
 
@@ -157,35 +143,40 @@ Kaupunki toteuttaa monipuolisin viestintätavoin toteutettuja kyselyitä asukkai
 
     -   [Kangasalan kaupunki](https://www.facebook.com/kangasalankaupunki)
 
-    -   [Kangasalan kirjasto](https://www.facebook.com/kangasalankirjasto)
-
-    -   [Liikkuva Kangasala - Kunnon kaupunki](https://www.facebook.com/people/Liikkuva-Kangasala-Kunnon-kaupunki/100051088791620/)
-
-    -   [Kangasalan kulttuuri- ja vapaa-aika - Kunnon kaupunki](https://www.facebook.com/profile.php?id=100077891494417)
-
-    -   [Lasten Kangasala](https://www.facebook.com/lastenkangasala/)
-
-    -   [Kangasalan Nuorisopalvelut](https://www.facebook.com/kangasalan.nuorisotilat/)
-
     -   [Kangasalan kaupunki-info](https://www.facebook.com/people/Kangasalan-kaupunki-info/100070137012661/)
 
-    -   [Nuorten neliö - kangasalalaisille 16 -- 29 -vuotiaille nuorille tarkoitettu avoin kohtaamispaikka](https://www.facebook.com/nuortennelio/)
+    -   [Kangasalan kirjasto](https://www.facebook.com/kangasalankirjasto)
 
--   Infonäytöt
+    -   [Kangasalan kulttuuripalvelut](https://www.facebook.com/profile.php?id=100077891494417)
+
+    -   [Kangasalan nuorisopalvelut](https://www.facebook.com/kangasalan.nuorisotilat/)
+
+    -   [Kangasalan liikuntapalvelut](https://www.facebook.com/100090440897189/about/?_rdr)
+
+    -   [Etsivä nuorisotyö Kangasala](https://www.facebook.com/entti.kangasala/)
+
+    -   [Lamminrahka](https://www.facebook.com/lamminrahka/reels/?_rdr)
+
 
 -   Instagram:
 
     -   [Kangasalan kaupunki](https://www.instagram.com/kangasalankaupunki/)
 
-    -   [Kangasalan kulttuuripalvelut](https://www.instagram.com/kangasalankulttuuripalvelut/)
-
     -   [Kaupunki-info](https://www.instagram.com/kangasalankaupunki_info/)
 
-    -   [Kirjastopalvelut](https://www.instagram.com/kangasalankirjasto/)
+    -   [Kangasalan kulttuuripalvelut](https://www.instagram.com/kangasalankulttuuripalvelut/)
 
-    -   [Nuorisopalvelut](https://www.instagram.com/kangasalannuorisopalvelut/)
+    -   [Kangasalan kirjastopalvelut](https://www.instagram.com/kangasalankirjasto/)
+
+    -   [Kangasalan nuorisopalvelut](https://www.instagram.com/kangasalannuorisopalvelut/)
+
+    -   [Kangasalan liikuntapalvelut](https://www.instagram.com/liikkuvakangasala/)
 
     -   [Nuorisotila Sentteri](https://www.instagram.com/sentteri_kangasala/)
+
+    -   [Etsivä nuorisotyö Kangasala](https://www.instagram.com/etsivanuorisotyo_kangasala/?igsh=MWl4eTNtaDdrNjAybg%3D%3D#)
+
+    -   [Lamminrahka](https://www.instagram.com/lamminrahka/)
 
     -   Koulujen omat Instagram sivut
 
@@ -220,13 +211,8 @@ Kaupunki toteuttaa monipuolisin viestintätavoin toteutettuja kyselyitä asukkai
 
     -   Youtube: [Kangasalan kaupunki](https://www.youtube.com/@kangasalankaupunki9294)
 
--   X:
+-   Infonäytöt
 
-    -   Kangasalan kirjasto: <https://twitter.com/kangkirjasto>
-
-    -   Kaupunginjohtaja Oskari Auvinen: <https://twitter.com/oskari_auvinen>
-
-    -   Nuorisovaltuusto: <https://twitter.com/nuvakangasala>
 
 ## Tilastotietoa Kangasalta
 
