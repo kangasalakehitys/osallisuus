@@ -229,10 +229,12 @@ Kaupunki toteuttaa monipuolisin viestintätavoin toteutettuja kyselyitä asukkai
 Tilastotietoa Kangasalta on saatavissa useammasta paikasta:
 
 -   [Kangasalan tilastokirjat](https://www.kangasala.fi/kaupunki-ja-paatoksenteko/hallinto-ja-talous/strategiat-talous-ja-tilastot/tilastot-ja-tutkimus/tilastokirjat/)
--   [Kuntaliiton Kuntanavigaattori](https://www.kuntaliitto.fi/tietotuotteet-ja-palvelut/analyysit-ja-tietoaineistot/kuntanavigaattori)
+-   [Elinvoimaindikaattori](https://www.kuntaliitto.fi/kuntaliitto/tietotuotteet-ja-palvelut/analyysit-ja-tietoaineistot/elinvoimaindikaattori)
 -   [Kuntien avainluvut](https://www.stat.fi/tup/alue/kuntienavainluvut.html)
 -   [Kunnat ja kuntayhtymät](https://www.kuntaliitto.fi/kunnat-ja-kuntayhtymat)
--   [SeutuNet: Tampereen kaupunkiseutu](https://tilastokeskus.fi/tup/seutunet/tampere_index.html)
+-   [Business Tampere](https://businesstampere.com/business-tampere-data/)
+-   [Pirkanmaan aluetietopalvelu](https://tieto.pirkanmaa.fi/)
+-   [Tampereen kaupunkiseudun väestö- ja työllisyyskatsaukset](https://tampereenseutu.fi/tampereen-kaupunkiseutu/vaestokatsaukset/)
 -   [Suomen yleisten kirjastojen tilastot](https://tilastot.kirjastot.fi/)
 -   [Tilastotietoa Kangasalta](https://kangasalakehitys.github.io/tilastot/yleistieto/)
 -   [Nuorisotyö kunnissa -- Nuorisotilastot.fi](https://nuorisotilastot.fi/1131/visualisoinnit/nuorisotyo-kunnissa/)
