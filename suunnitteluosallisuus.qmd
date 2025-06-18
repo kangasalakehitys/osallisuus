@@ -16,7 +16,7 @@ Lue lisää tapahtumista [tapahtumakalenterista](https://www.kangasala.fi/kaupun
 
 Kuntahallinnossa tehtävät päätökset ovat usein mittavia ja laajoja, ja ne vaikuttavat merkittävästi kuntalaisiin ja kunnan talouteen. Vaikutusten ennakkoarvioinnilla tarkoitetaan päätösesitysten vaikutusten arviointia etukäteen ja se tulee kytkeä osaksi kunnan talouden ja toiminnan suunnittelun ja toteutuksen arviointiin.
 
-Valmistelijan tai esittelijän vastuulla on yleensä päättää ennakkovaikutusten arvioinnin tekemisestä valmisteilla olevasta asiasta sekä myös tarkasteltavien päätösvaihtoehtojen määrästä. Arvioitavat asiat liittyvät strategiaan, asiakkaisiin ja asukkaisiin sekä vapaa-ajanasukkaisiin, lapsiin ja perheisiin, henkilöstöön ja talouteen sekä ympäristöön. [Yritysvaikutusten arviointia](https://link.webropol.com/s/yritysvaikutukset) tehdään omalla arviointikokonaisuudellaan mobiilisti
+Valmistelijan tai esittelijän vastuulla on yleensä päättää ennakkovaikutusten arvioinnin tekemisestä valmisteilla olevasta asiasta sekä myös tarkasteltavien päätösvaihtoehtojen määrästä. Arvioitavat asiat liittyvät strategiaan, asiakkaisiin ja asukkaisiin sekä vapaa-ajanasukkaisiin, lapsiin ja perheisiin, henkilöstöön ja talouteen sekä ympäristöön. [Yritysvaikutusten arviointia](https://link.webropol.com/s/yritysvaikutukset) tehdään omalla arviointikokonaisuudellaan mobiilisti.
 
 Kangasalla lapsivaikutusten arviointi on tärkeä osa Unicefin Lapsiystävällinen kunta työtä. Vaikutusten ennakkoarviointia (EVA) tehdään kokonaisuudessaan Kangasalla [mobiililomakkeen](https://link.webropol.com/s/evalomake) kautta.
 
@@ -24,13 +24,17 @@ Kaavoituksen yhteydessä vaikutusten arviointia tehdään eri näkökulmista. Ka
 
 ## Kokemusasintuntijoiden käyttö palvelukehityksessä
 
-Lasten ja nuorten hyvinvointiryhmässä ja perhekeskustyöryhmässä on mukana Kangasalan vanhemmat ry:n ja nuorisovaltuuston edustaja. Lisäksi kaikissa Kangasalan kaupungin hyvinvointityön ryhmissä on mukana kuntalaisedustajia muun muassa paikallisista järjestöistä ja yhdistyksistä. Hyvinvointityön työryhmissä on myös mukana kuntalaisedustajia, jotka edustavat Kangasalalla toimivia järjestöjä tai Kangasalan yrittäjiä.
+Lasten ja nuorten hyvinvointiryhmässä ja perhekeskustyöryhmässä on mukana Kangasalan vanhemmat ry:n ja nuorisovaltuuston edustaja. Lisäksi kaikissa Kangasalan kaupungin hyvinvointityön ryhmissä on mukana kuntalaisedustajia muun muassa paikallisista järjestöistä ja yhdistyksistä. Hyvinvointityön työryhmissä on myös mukana kuntalaisedustajia, jotka edustavat Kangasalalla toimivia järjestöjä tai Kangasalan yrittäjiä. 
+
+Kangasalla toimii kaksi nuorta Unicefin Lapsiystävällinen kunta -lähettilästä. Heidään tehtäviinsä kuuluu tuoda lasten ja nuorten ääni kuuluviin Unicef Lapsiystävällinen kunta työssä. 
 
 ## Lasten ja nuorten vaikuttamistapahtumat
 
 Kangasalan nuorisovaltuusto järjestää lasten ja nuorten vaikuttamistapahtumia. Vuoro vuosittain pidetään Lasten kyselytunti alakouluikäisille ja SAP -Sullon Asiaa Päättäjille tapahtuma yläkouluikäisille. Näissä tapahtumissa lapset ja nuoret pääsevät samaan pöytään keskustelemaan kaupungin valtuutettujen ja viranhaltijoiden kanssa.    
 
-Kaupunginvaltuusto ja nuorisovaltuusto tekevät yhteistyötä mm. nimeämällä kummivaltuutettuja ja pitämällä yhteisiä iltakouluja 2 krt vuodessa (2022 alkaen).
+Kaupunginvaltuusto ja nuorisovaltuusto tekevät yhteistyötä mm. nimeämällä kummivaltuutettuja ja pitämällä yhteisiä iltakouluja 2 krt vuodessa.
+
+Osana Unicefin lapsiystävällinen kunta -työtä lapsia ja nuoria kuullaan nykytilan kartoituksen yhteydessä, toimintasuunnitelman toteutusaikana sekä tulosten arvioinnissa.  
 
 ## Luottamushenkilöiden keskustelutilaisuudet
 
@@ -40,14 +44,14 @@ Johtavat kunnallispoliitikot jalkautuvat asukasiltoihin noin neljä kertaa vuode
 
 Osallistuva budjetointi on toimintatapa, jossa asukkaat otetaan mukaan yhteisiä verovaroja koskevaan keskusteluun, suunnitteluun ja päätöksentekoon.
 
-Kangasalla järestetään vuosittain sähköinen verkkokysely ja kyselyn pohjalta valikoituu toteutettavat tapahtumat ja kohteet/hankkeet. Poikkihallinnollinen Liiku ja leiki-työryhmä toteuttaa osan osallistuvan budjetoinnin hankkeista.
+Kangasalla järjestetään vuosittain sähköinen verkkokysely ja kyselyn pohjalta valikoituu toteutettavat tapahtumat ja kohteet/hankkeet. 
 
-## Vapaa-ajanasukkaiden foorumi {#sec-vapaa_aika_foorumi}
+## Kausiasukkaiden foorumi {#sec-vapaa_aika_foorumi}
 
-Kangasalla järjestetään vapaa-ajanasukkaiden ja kaupunginjohtajan infotilaisuuksia, joissa viestitään uusimmista kaupungin tapahtumista kaupungissa ja kuullaan vapaa-ajanasukkaiden kehitystarpeita.
+Kangasalla järjestetään kausiasukkaille infotilaisuuksia, joissa viestitään uusimmista kaupungin tapahtumista kaupungissa ja kuullaan kausiasukkaiden kehitystarpeita.
 
 ## Lakisääteinen vuorovaikutus
 
 Kaavahankkeiden osallistamisen ja tiedottamisen tavat kuvataan kussakin kaavahanketta koskevassa osallistumis- ja arviointisuunnitelmassa.
 
-Maankäyttö- ja rakennusasetuksen edellyttämä yleinen vuorovaikutus katusuunnitelmaa valmisteltaessa hoidetaan asukaskirjeellä. Asukaskirjeessä ilmoitetaan katusuunnitelman nähtävillä olosta, kerrotaan katusuunnitelmaehdotuksen taustat, suunnitelman sisältö ja toteutusaikataulu. Vuorovaikutusvaiheessa osalliset voivat jättää mielipiteensä kirjallisesti tai suullisesti. 
+Katusuunnittelun edellyttämä yleinen vuorovaikutus hoidetaan asukaskirjeellä tai yleisötilaisuutena, huomioiden suunnittelukohteen vaikuttavuus ja laajuus. Osallistamistavasta riippumatta suunnittelukohteesta ilmoitetaan katusuunnitelman nähtävillä olosta, kerrotaan katusuunnitelmaehdotuksen taustat, suunnitelman sisältö ja toteutusaikataulu. Vuorovaikutusvaiheessa osalliset voivat jättää mielipiteensä kirjallisesti tai suullisesti.

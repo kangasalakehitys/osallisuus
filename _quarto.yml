@@ -1,4 +1,4 @@
-# Copyright 2023 Kangasalan kaupunki, LGPL 2.1
+# Copyright 2025 Kangasalan kaupunki, LGPL 2.1
 project:
   type: book
   output-dir: book
@@ -44,7 +44,7 @@ book:
 
   page-footer:
     center: 
-      - text: "Copyright 2023 Kangasalan kaupunki, LGPL 2.1"
+      - text: "Copyright 2025 Kangasalan kaupunki, LGPL 2.1"
 
 format:
   html: 

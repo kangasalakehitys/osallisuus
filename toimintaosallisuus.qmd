@@ -1,14 +1,17 @@
 # Toimintaosallisuus
 
-Toimintaosallisuudessa kuntalainen osallistuu toimintaan elinympäristönsä kehittämiseksi, esimerkkinä siivous-, vieraslaji- ja kytkentätalkoot. Kaupunki toimii mahdollistajana ja tukijana monin eri tavoin.
+Toimintaosallisuudessa kuntalainen osallistuu toimintaan elinympäristönsä kehittämiseksi, esimerkkinä siivous-, vieraslaji- ja kitkentätalkoot. Kaupunki toimii mahdollistajana ja tukijana monin eri tavoin.
 
 ## Asukastoiminta asukas- ja kyläyhdistyksissä
 
-Kangasalla on aktiivista asukas- tai kyläyhdistystoimintaa. [Yhteystiedot löytyvät kaupungin verkkosivuilta.](https://www.kangasala.fi/hyvinvointi-ja-vapaa-aika/yhdistykset-ja-seurat/)
+ [Yhteystiedot löytyvät kaupungin verkkosivuilta.](https://www.kangasala.fi/hyvinvointi-ja-vapaa-aika/yhdistykset-ja-seurat/)
 
 ## Kaupungin järjestöyhteistyö
 
-Kangasalan kaupungin järjestöyhteistyön tarkoituksena on edistää järjestöjen ja Kangasalan kaupungin välistä yhteistyötä, helpottaa tiedon löytymistä ja vahvistaa kaupunkilaisten osallisuutta. Järjestöyhteistyö edistää kaupunkilaisten hyvinvointia, helpottaa järjestöjen toimintaa, edistää sujuvaa yhteistyötä sekä lisää yhteistyön avoimuutta. Kaupungin järjestöyhteistyötä tekee järjestöyhteistyön tiimi, jossa on mukana myös paikallisia järjestöjä edustamassa kaksi järjestöagenttia. Kulttuuri- ja hyvinvointitori keväällä vuosittain järjestettävä messutyyppinen tapahtuma, jossa kaupunki tarjoaa kolmannen sektorin toimijoille mahdollisuuden esitellä kuntalaisille omaa toimintaansa. Järjestöyhteistyön puitteissa järjestetään myös muita pienempiä verkostoitumistapahtumia paikallisille järjestöille ja yhdistyksille. Kangasalan maaseutuohjelmaan on kirjattu tavoitteeksi aktiivinen vuoropuhelu kaupungin ja kyläyhdistysten kesken. Järjestöjen toimintaa tuetaan myös avustuksilla ja yhteistyösopimuksilla.
+Kangasalan kaupungin järjestöyhteistyön tarkoituksena on edistää järjestöjen ja Kangasalan kaupungin välistä yhteistyötä, helpottaa tiedon löytymistä ja vahvistaa kaupunkilaisten osallisuutta. Järjestöyhteistyö edistää kaupunkilaisten hyvinvointia, helpottaa järjestöjen toimintaa, edistää sujuvaa yhteistyötä sekä lisää yhteistyön avoimuutta. 
+
+Kaupungin järjestöyhteistyötä tekee järjestöyhteistyön tiimi, jossa on mukana myös paikallisia järjestöjä edustamassa kolme järjestöagenttia. Kulttuuri- ja hyvinvointitori on keväällä vuosittain järjestettävä messutyyppinen tapahtuma, jossa kaupunki tarjoaa kolmannen sektorin toimijoille mahdollisuuden esitellä kuntalaisille omaa toimintaansa. Järjestöyhteistyön puitteissa järjestetään myös muita pienempiä verkostoitumistapahtumia sekä koulutuksia paikallisille järjestöille ja yhdistyksille. Halukkaille järjestötoimijoille lähetetään kuukausittain järjestökirje, johon on koostettu ajankohtaista järjestöille suunnattua tietoa, esimerkiksi koulutuksista, avustuksista, tapahtumista ja teemaviikoista. Järjestöjen toimintaa tuetaan myös avustuksilla ja yhteistyösopimuksilla.
+
 
 ## Asukkaiden omaehtoisen toiminnan tukeminen
 
@@ -36,7 +39,7 @@ Kaupunki tukee asukkaiden omaehtoista toimintaa oman asuinalueen kehittämiseksi
 
 Kangasalan kaupungin nuorisopalveluiden nuorisotyötä tehdään monipuolisesti ja koulujen kanssa tiiviissä yhteistyössä. Nuorisotyön palvelut on tarkoitettu kaikille alle 29-vuotiaille nuorille. Pääkohderyhmä on 13 - 17 -vuotiaat, mutta toimintaa järjestetään myös alakouluikäisille sekä täysi-ikäisille.
 
-[Nuorten neliö - kangasalalaisille 16 -- 29 -vuotiaille nuorille tarkoitettu avoin kohtaamispaikka](https://www.kangasala.fi/tyo-ja-yrittajyys/tyollisyyspalvelut/palvelut-nuorille/nuorten-nelio/)
+Etsivä nuorisotyö tarjoaa mahdollisuuden turvalliseen ja luottamukselliseen aikuiskontaktiin. Työssä toimitaan aina nuoren itsensä antamien tietojen, toiveiden ja tavoitteiden mukaisesti.  Ensisijaisena tehtävänä on auttaa 17-29 -vuotiaita kangasalalaisia nuoria, jotka ovat koulutuksen tai työmarkkinoiden ulkopuolella tai jotka tarvitsevat tukea saavuttaakseen tarvitsemansa palvelut. Palvelu on nuorelle täysin vapaaehtoista.  
 
 ## Oppilas- ja opiskelijakunnat
 
@@ -50,4 +53,4 @@ Joissakin varhaiskasvatusyksiköissä on toiminnassa vanhempainyhdistyksiä tai 
 
 ## Luontoretket ja ympäristötalkoot
 
-Kaupungin ympäristönsuojelu järjestää vuosittain useita luontoretkiä. Lue lisää tapahtumista [tapahtumakalenterista](https://www.kangasala.fi/kaupunki-ja-paatoksenteko/osallistu-ja-vaikuta/tilaisuudet-ja-tapahtumat/) . Vieraslajitalkoot on järjestetty vuosittain v.2020 alkaen yhteistyössä ympäristönsuojelun ja ulkoalueiden ylläpidon kanssa). Kaupunki kannustaa kuntalaisia kesäkaudella myös omien kitkentätalkoiden järjestämiseen mm. tarjoamalla jätesäkit vieraskasvilajien keräämiseen ja hakemalla jätesäkit pois.
+Kaupungin ympäristönsuojelu järjestää vuosittain useita luontoretkiä. Lue lisää tapahtumista [tapahtumakalenterista](https://www.kangasala.fi/kaupunki-ja-paatoksenteko/osallistu-ja-vaikuta/tilaisuudet-ja-tapahtumat/) . Vieraslajitalkoot on järjestetty vuosittain v.2020 alkaen yhteistyössä ympäristönsuojelun ja ulkoalueiden ylläpidon kanssa. Kaupunki kannustaa kuntalaisia kesäkaudella myös omien kitkentätalkoiden järjestämiseen mm. tarjoamalla jätesäkit vieraskasvilajien keräämiseen ja hakemalla jätesäkit pois.
